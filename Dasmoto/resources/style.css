@@ -1,0 +1,63 @@
+h1,
+h2,
+h3,
+span.prices
+ {
+  font-family: "Helvetica";
+
+
+}
+
+h1,
+h2
+{
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+h1 {
+  color: khaki;
+}
+
+h1 {
+  text-align: center;
+}
+
+#dasmoto_art_craft {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h2 {
+  color: white;
+}
+
+#brushes h2 {
+  background-color: mediumspringgreen;
+}
+
+#frames h2 {
+  background-color: lightcoral;
+}
+
+#paint h2 {
+  background-color: skyblue;
+}
+
+span.prices {
+  font-weight: bold;
+}
+
+span.prices {
+  color: blue;
+}
+
+p {
+  font-family: Helvetica;
+}
